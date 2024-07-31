@@ -1,5 +1,5 @@
 # MystTextEditor
-Basic text editor built using python
+Basic text editor built using PYQT5 in python
 
 
 Main Interface:
